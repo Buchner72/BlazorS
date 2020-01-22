@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="VertragsLibrary">
+      <HintPath>..\..\..\..\..\..\_SVNArbeitskopie\Tarifrechner_dev\Library\bin\Debug\VertragsLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
